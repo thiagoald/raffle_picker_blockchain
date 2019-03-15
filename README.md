@@ -1,7 +1,9 @@
 # raffle_picker_blockchain
+
 Picks a random number based on the hash of the latest block on the bitcoin blockchain
 
 ## Install
+
 Requires python3 and pip3
 Install dependencies like this:
 ```sh
@@ -9,6 +11,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+
 ```sh
 python3 raffle_picker_blockchain.py 100
 
