@@ -4,7 +4,8 @@ Picks a random number based on the hash of the latest block on the bitcoin block
 
 ## Install
 
-Requires python3 and pip3
+Requires python3 and pip3.
+
 Install dependencies like this:
 ```sh
 pip install -r requirements.txt
